@@ -1,9 +1,0 @@
-Assumptions:
--Application is a large enterprise application
--EF Core is used for dataaccess
--Storage is SQL Server database
--For question 4, the route has to start and end in the same country (Germany).
-
-Omissions:
--Data model classes represententing the data in the database. This can be configured in the EF model builder.
--Unit of work.
